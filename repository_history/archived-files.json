@@ -1,0 +1,44 @@
+[
+  {
+    "original_path": ".gitignore",
+    "archive_path": "repository_history/pre_split/.gitignore",
+    "source_commit": "a91d00635896c0d06d78f99c712c63b04d104d67",
+    "sha256": "b94385c587628613bf975331785b2a1752073e3fbc96d3cd192b64b2a11f5847",
+    "reason": "later historical expansion or management revision; excluded from original frozen evidence"
+  },
+  {
+    "original_path": "05_documents/README.md",
+    "archive_path": "repository_history/pre_split/05_documents/README.md",
+    "source_commit": "a91d00635896c0d06d78f99c712c63b04d104d67",
+    "sha256": "6cb7d3e9d33211670969084415478650aa2cd96308b64e81a766f2de788f9afc",
+    "reason": "later historical expansion or management revision; excluded from original frozen evidence"
+  },
+  {
+    "original_path": "05_documents/真实案例_英国议会电子请愿.md",
+    "archive_path": "repository_history/pre_split/05_documents/真实案例_英国议会电子请愿.md",
+    "source_commit": "a91d00635896c0d06d78f99c712c63b04d104d67",
+    "sha256": "9d65561ab8704adb392211a9eef0a86fcfd19a81d64e895cb5ee1f0071eef26c",
+    "reason": "later historical expansion or management revision; excluded from original frozen evidence"
+  },
+  {
+    "original_path": "06_reproducibility/build_release_manifest.py",
+    "archive_path": "repository_history/pre_split/06_reproducibility/build_release_manifest.py",
+    "source_commit": "a91d00635896c0d06d78f99c712c63b04d104d67",
+    "sha256": "c33e2f94a346185905dcaad682c7e9ce1125acf1beda157d4fafa9950de46d2b",
+    "reason": "later historical expansion or management revision; excluded from original frozen evidence"
+  },
+  {
+    "original_path": "06_reproducibility/release_manifest.csv",
+    "archive_path": "repository_history/pre_split/06_reproducibility/release_manifest.csv",
+    "source_commit": "a91d00635896c0d06d78f99c712c63b04d104d67",
+    "sha256": "1ab07c1b200aa9a822fdb7ef53e5a348c207e0b10ac5fa3e58e55acf4ed31232",
+    "reason": "later historical expansion or management revision; excluded from original frozen evidence"
+  },
+  {
+    "original_path": "README.md",
+    "archive_path": "repository_history/pre_split/README.md",
+    "source_commit": "a91d00635896c0d06d78f99c712c63b04d104d67",
+    "sha256": "5ba5175f19a211bbcb7b13866374df6e34a900312c7003580bfd7a70eb1092cd",
+    "reason": "later historical expansion or management revision; excluded from original frozen evidence"
+  }
+]

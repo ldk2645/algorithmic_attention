@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "read_only": true,
+  "source_files_checked": 214,
+  "manifest_entries_checked": {
+    "V1": 129,
+    "V2 historical": 29,
+    "V3 historical": 47
+  },
+  "core_sha256": "ab78e6c64afb6fd487e40a48fbbcd1b09a84ee3fbc9085530f8833de3543d7ec",
+  "research_files": 204,
+  "root_readme_manifest_mapping": "repository_history/f0d71f9/README.md",
+  "simulations_executed": 0,
+  "errors": [],
+  "python_files_ast_parsed": 40,
+  "new_missing_research_links": 0,
+  "new_navigation_missing_links": 0,
+  "historical_link_occurrences": 14,
+  "original_structural_qa_pass_count": 12
+}

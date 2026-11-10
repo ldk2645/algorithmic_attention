@@ -1,0 +1,72 @@
+[
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "11_postformal_20261009/README.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "11_postformal_20261009/postformal/robustness/execution_20261008/report/report.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "11_postformal_20261009/postformal/robustness/execution_20261008/acceptance.json",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "11_postformal_20261009/publication/README.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "11_postformal_20261009/postformal/postformal_handoff.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "11_postformal_20261009/postformal/empirical_anchor/processed/feasibility_20261008/report_zh.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "10_abm_jasss/publication/README.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "10_abm_jasss/outputs/formal_e2_e4_repaired_v2_20261004_report/report_zh.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "10_abm_jasss/manuscript_work_20261004/methods_en.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "10_abm_jasss/manuscript_work_20261004/results_en.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "paper_reports_20261004/README.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "07_version2_uk_petition/README.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "08_version3_response_dashboard/README.md",
+    "context": "relocated historical document; use fixed source tree"
+  },
+  {
+    "document": "repository_history/pre_split/README.md",
+    "target": "09_version4_inference/README.md",
+    "context": "relocated historical document; use fixed source tree"
+  }
+]
